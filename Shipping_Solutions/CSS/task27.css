@@ -84,7 +84,7 @@ background-image: url('../Images/image3.jpg');
 }
 .i3{
 background-color: yellow;
-background-image: url('../Images/image4.AVIF');
+background-image: url('../Images/engineer.AVIF');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height:230px;
@@ -330,7 +330,7 @@ font-family: fantasy;
 	clip-path: circle();
 /*	border-radius: 50px;*/
 /*border: 1px ;*/
-margin: 50px 30px 30px 100px; 
+margin: 50px 30px 30px 50px; 
 }
 .pp2{
 	color: black;
@@ -358,6 +358,7 @@ margin: 50px 30px 30px 100px;
 }
 .gg{
 	background-image: url('../Images/image11.avif');
+	background-size:cover;
 	height: 250px;
 	margin:20px 0px 50px 50px;
 }
@@ -383,7 +384,7 @@ border: 0px solid ;
 border-radius: 50px;
 }
 .foot2{
-	margin-top: 50%;
+	margin-top: 56%;
 	margin-bottom: 20%;
 }
 .last{
